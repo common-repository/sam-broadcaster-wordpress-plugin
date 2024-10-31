@@ -1,0 +1,40 @@
+  #sradiobfm_plugin_col_one {
+    margin: 0;
+    float: left;
+    width: 25%;
+  }
+  #sradiobfm_plugin_col_two {
+    margin: 0 0 0 2%;
+    float: left;
+    width: 73%;
+  }
+  #sradiobfm_plugin_lyrics {
+    overflow-y:auto;
+    overflow-x:auto;
+    color:black;
+    font: 12px arial;
+    padding: 5px;
+  }
+  #sradiobfm_plugin_lyrics_disclaimer {
+    font: italic 10px arial;
+    color: green;
+  }
+  div.sradiobfm_plugin_row {
+    clear: both;
+    padding-top: 5px;
+  }
+  div.sradiobfm_plugin_row span.label {
+    float: left;
+    width: 33%;
+    text-align: right;
+    font-weight: bold;
+    vertical-align:middle;
+  }
+  div.sradiobfm_plugin_row span.formw {
+    float: right;
+    width: 65%;
+    text-align: left;
+  }
+  div.sradiobfm_plugin_row span.sepa {
+    width: 2%;
+  }
